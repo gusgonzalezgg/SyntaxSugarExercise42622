@@ -1,0 +1,16 @@
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\bin\Debug\net5.0\SyntaxSugarAssigment42622.exe
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\bin\Debug\net5.0\SyntaxSugarAssigment42622.deps.json
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\bin\Debug\net5.0\SyntaxSugarAssigment42622.runtimeconfig.json
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\bin\Debug\net5.0\SyntaxSugarAssigment42622.runtimeconfig.dev.json
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\bin\Debug\net5.0\SyntaxSugarAssigment42622.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\bin\Debug\net5.0\SyntaxSugarAssigment42622.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.csproj.AssemblyReference.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.AssemblyInfoInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.AssemblyInfo.cs
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.csproj.CoreCompileInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\refint\SyntaxSugarAssigment42622.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\SyntaxSugarAssigment42622.genruntimeconfig.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\SyntaxSugarAssigment42622\SyntaxSugarAssigment42622\obj\Debug\net5.0\ref\SyntaxSugarAssigment42622.dll

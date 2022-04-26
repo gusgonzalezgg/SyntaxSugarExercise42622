@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SyntaxSugarAssigment42622/1.0.0": {
+        "runtime": {
+          "SyntaxSugarAssigment42622.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyntaxSugarAssigment42622/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
