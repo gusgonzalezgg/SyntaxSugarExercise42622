@@ -6,7 +6,7 @@ namespace SyntaxSugarAssigment42622
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
 
             //The commented out code is the assignment to be changed
 
@@ -23,7 +23,7 @@ namespace SyntaxSugarAssigment42622
 
 
             var answer = 4;
-            var response = (answer > 9) ? "This is more than 9" : "This is less than 9";
+            var response = (answer > 9) ? $" Nice, {answer} is more than 9" : $"Turns out {answer} is less than 9";
 
             Console.WriteLine(response);
         }
